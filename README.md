@@ -20,3 +20,4 @@ Vá ao início da pagina e clique na opção authorize.
 Vai abrir uma janela(Pop-up).
 Cole o valor copiado no campo Value e clique em authorize, pronto você esta autenticado.
 Após isso vc pode utilizar os endpois para fazer as operações disponíveis na interface do swagger para a api.
+Ao terminar suba a aplicação front-end que esta em angular como descrito no READMI do git da mesma para testar o fluxo da aplicação com front-end e back-end se conversando.
